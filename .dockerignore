@@ -1,0 +1,7 @@
+.git
+.github
+.env.docker-run
+docker/mysql-data
+docker/mysql-data/**
+cache
+cache/**
